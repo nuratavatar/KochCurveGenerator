@@ -1,7 +1,5 @@
-#Tarun Mandalapu
-#Koch Curve Explorer
-#Nonlinear Dynamics
-#12/13/2016
+# Tarun Mandalapu 2016
+
 from graphics import *
 import math
 from random import *
